@@ -1,8 +1,3 @@
-import './App.css'
-
-function App() {
-
+export default function App() {
   return <button className='square'>X</button>
 }
-
-export default App
